@@ -1,10 +1,12 @@
 # spring-boot-todo
 A simple TODO application for Spring Boot
 
---- PRE-REQUESTS ---
+--- PREREQUISITES ---
 1. XAMPP/WAMP Installed
 2. Java 11 Installed
 3. Rest Client (Ex. Postman) Installed (To test the API)
+4. IDE Installed (Ex. IntelliJ IDEA)
+4. IDE Installed (Ex. IntelliJ IDEA)
 
 --- STEPS TO RUN THE APPLICATION ---
 
